@@ -1,0 +1,4 @@
+#Tue Sep 26 21:15:04 CDT 2017
+base.0=/home/juansolo/Documents/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_91d6180c922b830ec018efda93c57c49b1c31610
+renamed.0=classes.dex
+file.0=/home/juansolo/Documents/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_91d6180c922b830ec018efda93c57c49b1c31610/classes.dex

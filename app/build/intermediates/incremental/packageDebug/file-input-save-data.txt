@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Tue Sep 26 21:15:04 CDT 2017
+2.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_add_event.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_event_details.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_event_list.xml
+4.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0c98fd281068a90ce12c079837accafd7bdd5d5
+7.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a92b3b55aa55b32d0f9aaced211f0c161ec2249/classes.dex
+7.set=DEX
+count=11
+0.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.set=DEX
+6.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_add_event.xml
+9.set=ANDROID_RESOURCE
+9.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_event_details.xml
+10.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a92b3b55aa55b32d0f9aaced211f0c161ec2249
+2.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_event_list.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_
+9.base=/home/juansolo/Documents/Agenda1/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/juansolo/Documents/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0c98fd281068a90ce12c079837accafd7bdd5d5/classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,7 @@
+#Tue Sep 26 21:15:04 CDT 2017
+base.0=/home/juansolo/Documents/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0c98fd281068a90ce12c079837accafd7bdd5d5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/juansolo/Documents/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a92b3b55aa55b32d0f9aaced211f0c161ec2249/classes.dex
+base.1=/home/juansolo/Documents/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a92b3b55aa55b32d0f9aaced211f0c161ec2249
+file.0=/home/juansolo/Documents/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0c98fd281068a90ce12c079837accafd7bdd5d5/classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/juansolo/Documents/Agenda1/app/build/intermediates/res/merged/debug/menu/activity_event_list.xml",
+        "source": "/home/juansolo/Documents/Agenda1/app/src/main/res/menu/activity_event_list.xml"
+    },
+    {
+        "merged": "/Users/IceAuror/Desktop/Fall '16/388_Labs/Agenda1/app/build/intermediates/res/merged/debug/menu/activity_event_list.xml",
+        "source": "/Users/IceAuror/Desktop/Fall '16/388_Labs/Agenda1/app/src/main/res/menu/activity_event_list.xml"
+    },
+    {
+        "merged": "/home/juansolo/Documents/Agenda1/app/build/intermediates/res/merged/debug/menu/activity_event_details.xml",
+        "source": "/home/juansolo/Documents/Agenda1/app/src/main/res/menu/activity_event_details.xml"
+    },
+    {
+        "merged": "/home/juansolo/Documents/Agenda1/app/build/intermediates/res/merged/debug/menu/activity_add_event.xml",
+        "source": "/home/juansolo/Documents/Agenda1/app/src/main/res/menu/activity_add_event.xml"
+    },
+    {
+        "merged": "/Users/IceAuror/Desktop/Fall '16/388_Labs/Agenda1/app/build/intermediates/res/merged/debug/menu/activity_add_event.xml",
+        "source": "/Users/IceAuror/Desktop/Fall '16/388_Labs/Agenda1/app/src/main/res/menu/activity_add_event.xml"
+    },
+    {
+        "merged": "/Users/IceAuror/Desktop/Fall '16/388_Labs/Agenda1/app/build/intermediates/res/merged/debug/menu/activity_event_details.xml",
+        "source": "/Users/IceAuror/Desktop/Fall '16/388_Labs/Agenda1/app/src/main/res/menu/activity_event_details.xml"
+    }
+]
